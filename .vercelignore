@@ -1,0 +1,8 @@
+# Arquivos de trabalho — não vão para o site publicado
+DESIGN.md
+.firecrawl/
+
+# Marca de terceiro: fica fora do deploy.
+# Mesmo sem estar referenciada na página, qualquer arquivo enviado
+# fica acessível por URL direta.
+imagens/marca-phd/
